@@ -1,3 +1,5 @@
+// Name: Albani Boutje Johanes
+// NIM: 211011060022
 <?php
 
 // Function that accepted by NFA
@@ -68,10 +70,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <br>
     <br>
     <p style="font-family:sans-serif; margin-top: 20px; text-align:center; padding: 2px; ">
-    Source code:
-    <form action="">
-        <button type="submit">This is my source code</button>
-    </form>
+    Source code:<br>
+    <br>
+    Made by Albani Boutje Johanes with NIM 211011060022<br>
+    <div style="text-align:center; padding: 1px; ">
+        <form action="https://github.com/albanijohanes/ProjectAutomataNFA/blob/main/AssignmentAutomataNFA">
+            <button type="submit">This is my source code!</button>
+        </form>
+    </div>
   
     </p>
     
