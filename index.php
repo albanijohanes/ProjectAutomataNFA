@@ -74,7 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <br>
     Made by Albani Boutje Johanes with NIM 211011060022<br>
     <div style="text-align:center; padding: 1px; ">
-        <form action="https://github.com/albanijohanes/ProjectAutomataNFA/blob/main/AssignmentAutomataNFA">
+        <form action="https://github.com/albanijohanes/ProjectAutomataNFA/blob/main/index.php" target="_blank">
             <button type="submit">This is my source code!</button>
         </form>
     </div>
